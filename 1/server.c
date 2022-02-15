@@ -13,9 +13,8 @@ int handle_operation(int[]);
 int main()
 {
     int socket_desc, client_sock, c, read_size;
+    int numbers[MAX_NUMS], i, response;
     struct sockaddr_in server, client;
-    int numbers[MAX_NUMS], i;
-    int response;
 
     /* Creación del socket */
     socket_desc = socket(AF_INET, SOCK_STREAM, 0);
@@ -84,7 +83,6 @@ int main()
 
 int handle_operation(int list[])
 {
-    int response;
-    response = ((list[0] + list[1]) * list[2]) - list[3];
+    int response = ((list[0] + list[1]) * list[2]) - list[3];
     return response;
 }

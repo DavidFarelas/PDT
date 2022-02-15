@@ -58,13 +58,13 @@ int main()
 
         /* Respuesta al usuario */
 
-        if (response < 501)
+        if (response > 500)
         {
-            puts("\nEl resultado deberá ser mayor a 500\n");
+            printf("\nEl resultado de la operación es: %d \n", response);
         }
         else
         {
-            printf("\nEl resultado de la operación es: %d \n", response);
+            puts("\nEl resultado deberá ser mayor a 500\n");
         }
     }
     /* Se cierra el socket */
