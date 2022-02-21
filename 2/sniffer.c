@@ -10,6 +10,7 @@
 #include <sys/ioctl.h>
 #include <net/if.h>
 #include <unistd.h>
+#include <pthread.h>
 
 #define TYPE_IPV4 "OX0800"
 #define TYPE_IPV6 "OX86DD"
@@ -126,13 +127,36 @@ void PrintIP(unsigned char *buffer, int bufferSize)
 {
     struct ethhdr *ethHead;
     struct iphdr *ipHead;
+    char *UniLow = "0.0.0.0", *UniHigh = "223.255.255.255";
 
     ethHead = (struct ethhdr *)buffer;
-    if (ntohs(ethHead->h_proto) == ETH_P_ALL)
+    if (ntohs(ethHead->h_proto) == ETH_P_IP || ntohs(ethHead->h_proto) == ETH_P_IPV6)
     {
         if (bufferSize >= (sizeof(struct iphdr) + sizeof(struct ethhdr)))
         {
-            ipHead = (struct iphdr *)(buffer + sizeof(struct ethhdr));
+            ipHead = (struct iphdr *)(ethHead + sizeof(struct ethhdr));
+            char *ipAdd = inet_ntoa(*(struct in_addr *)&ipHead->daddr);
+            char ipAddToConv[3] = {ipAdd[0], ipAdd[1], ipAdd[2]};
+            int ipAddInt = atoi(ipAddToConv);
+
+            if ((ipAddInt > 0) && (ipAddInt < 224))
+            {
+                fprintf(file, "La dirección de destino es de tipo Unicast\n");
+            }
+            else if (224 >= ipAddInt && ipAddInt < 240)
+            {
+                fprintf(file, "La dirección de destino es de tipo Multicast\n");
+            }
+            else if (ipAddInt == 255)
+            {
+                fprintf(file, "La dirección de destino es de tipo Broadcast\n");
+            }
+            fprintf(file, "IP de destino: %s\n", inet_ntoa(*(struct in_addr *)&ipHead->daddr));
+            fprintf(file, "IP fuente: %s\n", inet_ntoa(*(struct in_addr *)&ipHead->saddr));
+        }
+        else
+        {
+            printf("La trama no tiene cabecera completa\n");
         }
     }
 }
@@ -195,6 +219,7 @@ int main(int argc, char *argv[])
         {
             dataPack(buffer, bufferSize);
             PrintEthHeader(buffer, bufferSize);
+            PrintIP(buffer, bufferSize);
             ethIIAn++;
         }
         else
