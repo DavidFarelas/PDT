@@ -1,0 +1,3273 @@
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21714
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xc0
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23321
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x1d
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21715
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xc2
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.70
+	|-Dirección IP destino.......: 192.168.100.255
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 72 Bytes
+	|-Identificador del datagrama: 24608
+	|-Tiempo de vida.............: 128
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 52 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x91
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 138 Bytes
+	|-Identificador del datagrama: 29346
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 118 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 394 Bytes
+	|-Identificador del datagrama: 60229
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 374 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 17867
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 17868
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21716
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xb9
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21717
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xb6
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23322
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x23
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 199 Bytes
+	|-Identificador del datagrama: 27188
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 179 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 17970
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 17969
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 199 Bytes
+	|-Identificador del datagrama: 27246
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 179 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 199 Bytes
+	|-Identificador del datagrama: 27422
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 179 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 18060
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 18059
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 199 Bytes
+	|-Identificador del datagrama: 27449
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 179 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21718
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xa3
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23323
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xab
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21719
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xab
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 68 Bytes
+	|-Identificador del datagrama: 60230
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 48 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 105 Bytes
+	|-Identificador del datagrama: 60231
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 85 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 254 Bytes
+	|-Identificador del datagrama: 60232
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 234 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 172 Bytes
+	|-Identificador del datagrama: 60233
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 152 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.226
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 138 Bytes
+	|-Identificador del datagrama: 45407
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 118 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 394 Bytes
+	|-Identificador del datagrama: 60234
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 374 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 65.9.124.127
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 15496
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x57
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 65.9.124.127
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 60282
+	|-Tiempo de vida.............: 243
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x60
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21720
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x81
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23324
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x4e
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21721
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xa0
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 82 Bytes
+	|-Identificador del datagrama: 24736
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 62 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 82 Bytes
+	|-Identificador del datagrama: 24736
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 62 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 82 Bytes
+	|-Identificador del datagrama: 24737
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 62 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 82 Bytes
+	|-Identificador del datagrama: 24737
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 62 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 82 Bytes
+	|-Identificador del datagrama: 53852
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 62 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 82 Bytes
+	|-Identificador del datagrama: 53853
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 62 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 149 Bytes
+	|-Identificador del datagrama: 20713
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 129 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 191 Bytes
+	|-Identificador del datagrama: 20714
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 171 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 149 Bytes
+	|-Identificador del datagrama: 56117
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 129 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 149 Bytes
+	|-Identificador del datagrama: 56117
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 129 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 94 Bytes
+	|-Identificador del datagrama: 53855
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 74 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 155 Bytes
+	|-Identificador del datagrama: 20715
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 135 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 191 Bytes
+	|-Identificador del datagrama: 56126
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 171 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 191 Bytes
+	|-Identificador del datagrama: 56126
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 171 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 60 Bytes
+	|-Identificador del datagrama: 813
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 40 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x07
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 39516
+	|-Tiempo de vida.............: 112
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x02
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 814
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 557 Bytes
+	|-Identificador del datagrama: 815
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 537 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 2864 Bytes
+	|-Identificador del datagrama: 39517
+	|-Tiempo de vida.............: 113
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 2844 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x05
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 816
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1107 Bytes
+	|-Identificador del datagrama: 39519
+	|-Tiempo de vida.............: 113
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1087 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 817
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 133 Bytes
+	|-Identificador del datagrama: 818
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 113 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x44
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 91 Bytes
+	|-Identificador del datagrama: 39520
+	|-Tiempo de vida.............: 113
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 71 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xb5
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 819
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1432 Bytes
+	|-Identificador del datagrama: 820
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1412 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x3b
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 39521
+	|-Tiempo de vida.............: 113
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 354 Bytes
+	|-Identificador del datagrama: 39522
+	|-Tiempo de vida.............: 113
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 334 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x06
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 71 Bytes
+	|-Identificador del datagrama: 821
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 51 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x99
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 64.4.54.254
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 822
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 64.4.54.254
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 39523
+	|-Tiempo de vida.............: 113
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21722
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x1c
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23325
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x54
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21723
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x95
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 142.251.116.188
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 53903
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x1b
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 142.251.116.188
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 28233
+	|-Tiempo de vida.............: 121
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x28
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x33
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 450 Bytes
+	|-Identificador del datagrama: 4216
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 430 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 459 Bytes
+	|-Identificador del datagrama: 4217
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 439 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 506 Bytes
+	|-Identificador del datagrama: 4218
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 486 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 514 Bytes
+	|-Identificador del datagrama: 4219
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 494 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 516 Bytes
+	|-Identificador del datagrama: 4220
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 496 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 504 Bytes
+	|-Identificador del datagrama: 4221
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 484 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 492 Bytes
+	|-Identificador del datagrama: 4222
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 472 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 506 Bytes
+	|-Identificador del datagrama: 4223
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 486 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 506 Bytes
+	|-Identificador del datagrama: 4224
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 486 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 450 Bytes
+	|-Identificador del datagrama: 4225
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 430 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 459 Bytes
+	|-Identificador del datagrama: 4226
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 439 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 506 Bytes
+	|-Identificador del datagrama: 4227
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 486 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 514 Bytes
+	|-Identificador del datagrama: 4228
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 494 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 516 Bytes
+	|-Identificador del datagrama: 4229
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 496 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 504 Bytes
+	|-Identificador del datagrama: 4230
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 484 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 492 Bytes
+	|-Identificador del datagrama: 4231
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 472 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 506 Bytes
+	|-Identificador del datagrama: 4232
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 486 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 506 Bytes
+	|-Identificador del datagrama: 4233
+	|-Tiempo de vida.............: 4
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 486 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 394 Bytes
+	|-Identificador del datagrama: 60235
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 374 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21724
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xa9
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23326
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xae
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21725
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x8a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 20234
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 20235
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 142.250.138.188
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 42543
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xfc
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 142.250.138.188
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 22806
+	|-Tiempo de vida.............: 121
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x28
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0xbf
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 20407
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 20406
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 20508
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 20509
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21726
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x4c
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23327
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x16
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21727
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x7f
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 86 Bytes
+	|-Identificador del datagrama: 56269
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 66 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 147 Bytes
+	|-Identificador del datagrama: 20881
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 127 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 86 Bytes
+	|-Identificador del datagrama: 26446
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 66 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 86 Bytes
+	|-Identificador del datagrama: 26446
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 66 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 86 Bytes
+	|-Identificador del datagrama: 56271
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 66 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 147 Bytes
+	|-Identificador del datagrama: 20882
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 127 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 147 Bytes
+	|-Identificador del datagrama: 57670
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 127 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 147 Bytes
+	|-Identificador del datagrama: 57670
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 127 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.226
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 138 Bytes
+	|-Identificador del datagrama: 45858
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 118 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 394 Bytes
+	|-Identificador del datagrama: 60236
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 374 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 26482
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 26482
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 26483
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 26483
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 56436
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 56437
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 210 Bytes
+	|-Identificador del datagrama: 20919
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 190 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 210 Bytes
+	|-Identificador del datagrama: 57994
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 190 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 210 Bytes
+	|-Identificador del datagrama: 57994
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 190 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 254 Bytes
+	|-Identificador del datagrama: 20920
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 234 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 100 Bytes
+	|-Identificador del datagrama: 56440
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 80 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 170 Bytes
+	|-Identificador del datagrama: 20921
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 150 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 254 Bytes
+	|-Identificador del datagrama: 57997
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 234 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 254 Bytes
+	|-Identificador del datagrama: 57997
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 234 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 60 Bytes
+	|-Identificador del datagrama: 9912
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 40 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x07
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.70
+	|-Dirección IP destino.......: 192.168.100.255
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 72 Bytes
+	|-Identificador del datagrama: 24609
+	|-Tiempo de vida.............: 128
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 52 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x91
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 4866
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x02
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 9913
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 557 Bytes
+	|-Identificador del datagrama: 9914
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 537 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1452 Bytes
+	|-Identificador del datagrama: 4867
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1432 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x11
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 9915
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 9916
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 3063 Bytes
+	|-Identificador del datagrama: 4868
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 3043 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 198 Bytes
+	|-Identificador del datagrama: 9917
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 178 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x9c
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 91 Bytes
+	|-Identificador del datagrama: 4871
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 71 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x3d
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 9918
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1452 Bytes
+	|-Identificador del datagrama: 9919
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1432 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x38
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1278 Bytes
+	|-Identificador del datagrama: 9920
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1258 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xc5
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 4872
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21728
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x45
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23328
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xf3
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21729
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x74
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.70
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 73 Bytes
+	|-Identificador del datagrama: 25156
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 53 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 236 Bytes
+	|-Identificador del datagrama: 60237
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 216 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x40
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 427 Bytes
+	|-Identificador del datagrama: 4873
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 407 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x06
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 71 Bytes
+	|-Identificador del datagrama: 9921
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 51 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xf1
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 9922
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 4874
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.70
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 51418
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21730
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xa5
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23329
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0d
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21731
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x69
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 138 Bytes
+	|-Identificador del datagrama: 34943
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 118 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x01
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 394 Bytes
+	|-Identificador del datagrama: 60238
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 374 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x10
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21732
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x44
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23330
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x29
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21733
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x5f
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 91.189.89.199
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 76 Bytes
+	|-Identificador del datagrama: 52700
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 56 Bytes
+Tipo de servicio utilizado: 0x10
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x73
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 91.189.89.199
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 76 Bytes
+	|-Identificador del datagrama: 58784
+	|-Tiempo de vida.............: 52
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 56 Bytes
+Tipo de servicio utilizado: 0xb8
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xfd
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 22312
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 22313
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 27094
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 27094
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 27095
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.1
+	|-Dirección IP destino.......: 127.0.0.53
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 89 Bytes
+	|-Identificador del datagrama: 27095
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 69 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 100 Bytes
+	|-Identificador del datagrama: 56919
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 80 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 100 Bytes
+	|-Identificador del datagrama: 56920
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 80 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 270 Bytes
+	|-Identificador del datagrama: 60764
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 250 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 170 Bytes
+	|-Identificador del datagrama: 21693
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 150 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.1
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 116 Bytes
+	|-Identificador del datagrama: 21692
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 96 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 270 Bytes
+	|-Identificador del datagrama: 60764
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 250 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 254 Bytes
+	|-Identificador del datagrama: 60765
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 234 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 127.0.0.53
+	|-Dirección IP destino.......: 127.0.0.1
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 254 Bytes
+	|-Identificador del datagrama: 60765
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 234 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 60 Bytes
+	|-Identificador del datagrama: 48274
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 40 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x07
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 30326
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x02
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 48275
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 557 Bytes
+	|-Identificador del datagrama: 48276
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 537 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 48277
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1452 Bytes
+	|-Identificador del datagrama: 30327
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1432 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x11
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 3063 Bytes
+	|-Identificador del datagrama: 30328
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 3043 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 48278
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 198 Bytes
+	|-Identificador del datagrama: 48279
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 178 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xd7
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 22350
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 153 Bytes
+	|-Identificador del datagrama: 22351
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 133 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 91 Bytes
+	|-Identificador del datagrama: 30331
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 71 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x71
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 48280
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 1452 Bytes
+	|-Identificador del datagrama: 48281
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 1432 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x40
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 522 Bytes
+	|-Identificador del datagrama: 48282
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 502 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x1a
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 30332
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 21734
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x02
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.16
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 162 Bytes
+	|-Identificador del datagrama: 23331
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 142 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xb1
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 192.168.100.16
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 52 Bytes
+	|-Identificador del datagrama: 21735
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 32 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x52
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.230
+	|-Dirección IP destino.......: 224.0.0.251
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 165 Bytes
+	|-Identificador del datagrama: 20222
+	|-Tiempo de vida.............: 255
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 145 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x0000
+		Fragmento único
+Primer Byte: 0x45	Ultimo Byte: 0x31
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 426 Bytes
+	|-Identificador del datagrama: 30333
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 406 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0xa2
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 71 Bytes
+	|-Identificador del datagrama: 48283
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 51 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x3f
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.227
+	|-Dirección IP destino.......: 51.132.193.105
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 48284
+	|-Tiempo de vida.............: 64
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 51.132.193.105
+	|-Dirección IP destino.......: 192.168.100.227
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 40 Bytes
+	|-Identificador del datagrama: 30334
+	|-Tiempo de vida.............: 115
+	|-Protocolo de capa superior.: 0x06 (TCP)
+Longitud de carga útil: 20 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x00
+
+
+
+------ IP HEADER -------
+	|-Dirección IP fuente........: 192.168.100.104
+	|-Dirección IP destino.......: 239.255.255.250
+	|-Longitud de cabecera.......: 20 Bytes
+	|-Longitud total datagrama...: 150 Bytes
+	|-Identificador del datagrama: 22556
+	|-Tiempo de vida.............: 1
+	|-Protocolo de capa superior.: 0x11 (UDP)
+Longitud de carga útil: 130 Bytes
+Tipo de servicio utilizado: 0x00
+Campos relacionados con la fragmentación 0x4000
+	El datagrama no se puede fragmentar 
+Primer Byte: 0x45	Ultimo Byte: 0x0a
+
+
+----- Estadisticas -----
+
+ Número de paquetes capturados de cada uno de los protocolos de capa superior:
+	|-ICMPv4:       0
+	|-IGMP:         0
+	|-IP:           0
+	|-TCP:          92
+	|-UDP:          108
+	|-IPv6:         0
+	|-OSPF:         0
+	|-Unidentified: 0
+
+Direcciones IP (fuente) repetidas:
+	|-#72 IP:192.168.100.227
+	|-#39 IP:192.168.100.16
+	|-#4 IP:192.168.100.70
+	|-#19 IP:192.168.100.104
+	|-#2 IP:192.168.100.226
+	|-#1 IP:65.9.124.127
+	|-#14 IP:127.0.0.1
+	|-#10 IP:192.168.100.1
+	|-#14 IP:127.0.0.53
+	|-#7 IP:64.4.54.254
+	|-#1 IP:142.251.116.188
+	|-#1 IP:142.250.138.188
+	|-#14 IP:51.132.193.105
+	|-#1 IP:91.189.89.199
+	|-#1 IP:192.168.100.230
+
+Direcciones IP (destino) repetidas:
+	|-#22 IP:192.168.100.16
+	|-#46 IP:192.168.100.227
+	|-#2 IP:192.168.100.255
+	|-#16 IP:224.0.0.251
+	|-#40 IP:239.255.255.250
+	|-#1 IP:65.9.124.127
+	|-#14 IP:127.0.0.53
+	|-#10 IP:192.168.100.1
+	|-#14 IP:127.0.0.1
+	|-#10 IP:64.4.54.254
+	|-#1 IP:142.251.116.188
+	|-#1 IP:142.250.138.188
+	|-#22 IP:51.132.193.105
+	|-#1 IP:91.189.89.199
+
+Número de paquetes transmitiidos entre dos hosts especificos (conversaciones):
+	|-#33 Paquetes entre IP:192.168.100.227 y IP:192.168.100.16
+	|-#2 Paquetes entre IP:192.168.100.70 y IP:192.168.100.255
+	|-#2 Paquetes entre IP:192.168.100.104 y IP:224.0.0.251
+	|-#10 Paquetes entre IP:192.168.100.16 y IP:224.0.0.251
+	|-#17 Paquetes entre IP:192.168.100.104 y IP:239.255.255.250
+	|-#4 Paquetes entre IP:192.168.100.227 y IP:239.255.255.250
+	|-#2 Paquetes entre IP:192.168.100.226 y IP:224.0.0.251
+	|-#2 Paquetes entre IP:192.168.100.227 y IP:65.9.124.127
+	|-#28 Paquetes entre IP:127.0.0.1 y IP:127.0.0.53
+	|-#20 Paquetes entre IP:192.168.100.227 y IP:192.168.100.1
+	|-#17 Paquetes entre IP:192.168.100.227 y IP:64.4.54.254
+	|-#2 Paquetes entre IP:192.168.100.227 y IP:142.251.116.188
+	|-#18 Paquetes entre IP:192.168.100.16 y IP:239.255.255.250
+	|-#2 Paquetes entre IP:192.168.100.227 y IP:142.250.138.188
+	|-#36 Paquetes entre IP:192.168.100.227 y IP:51.132.193.105
+	|-#1 Paquetes entre IP:192.168.100.70 y IP:224.0.0.251
+	|-#1 Paquetes entre IP:192.168.100.70 y IP:239.255.255.250
+	|-#2 Paquetes entre IP:192.168.100.227 y IP:91.189.89.199
+	|-#1 Paquetes entre IP:192.168.100.230 y IP:224.0.0.251
+
+ Número de paquetes segun su tamaño:
+	|0-159:        113
+	|160-639:      77
+	|640-1279:     2
+	|1280-5119:    8
+	|5120 o mayor: 0
